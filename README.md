@@ -1,4 +1,2 @@
 # tictactoe
-AAAAA
-BBB
-sdsd
+My first Python app!
