@@ -10,7 +10,7 @@ def check_rows(table):
                 x +=1
             elif(col == "O"):
                 o += 1
-        # check if the row is empty or has only one type signs
+        # check if the row is empty or has only one type signs 
         if(x == o == 0 or (x == 0 or o == 0 and x+0 <= 3)):
             remaining_moves += 1
         if (x == 3):
